@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+我是中国人，我会说中文。
+Hey there! I can speak English.
+こんにちは。私は日本語を話すことができます。
